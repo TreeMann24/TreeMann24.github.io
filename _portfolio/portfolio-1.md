@@ -1,6 +1,6 @@
 ---
 title: "Sports"
-excerpt: "Here are my sports Photos<br/><img src='images\IMG_0717.jpg'>"
+excerpt: "Here are my sports Photos<br/><img src='IMG_0717.jpg'>"
 collection: portfolio
 ---
 

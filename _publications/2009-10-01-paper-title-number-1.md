@@ -1,6 +1,7 @@
 ---
 title: "Landscape"
 collection: publications
+category: manuscripts
 excerpt: 'My Landscape Photography includes many places and locations including the city, the mountains, the coast and many more. I like to captue the esence of all nature and life and work to capture the best photos of the world.'
 venue: 'Landscape'
 ---
