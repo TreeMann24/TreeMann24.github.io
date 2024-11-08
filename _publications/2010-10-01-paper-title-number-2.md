@@ -2,7 +2,7 @@
 title: "Sports"
 collection: publications
 category: manuscripts
-excerpt: 'I love Sports'
+excerpt: 'I love Capturing the energy and passion of people playing sports that they love and then providing them to post on their socials or print them out. I love getting into the action and capturing the best moments of the game or match.'
 venue: 'Journal 1'
 ---
 

@@ -6,13 +6,13 @@
 
 main:
   - title: "Photography"
-    url: /publications/
+    url: /photography/
 
   - title: "Game Design"
-    url: /talks/     
+    url: /gamedesign/     
     
   - title: "Portfolio"
     url: /portfolio/
     
   - title: "About Me"
-    url: /markdown/
+    url: /aboutme/
