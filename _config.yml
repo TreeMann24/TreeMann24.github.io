@@ -254,7 +254,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: photography
     values:
       layout: single
       author_profile: true
@@ -272,7 +272,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: gamedesign
     values:
       layout: talk
       author_profile: true
